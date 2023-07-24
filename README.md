@@ -4,13 +4,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-- TO EDIT 
+- This application is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using Express.js for routing, a MongoDB database, and the Mongoose ODM.
+
 ## Table of Contents
 - [mcramileux-socnet-api](#mcramileux-socnet-api)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
-  - [Installation - TO EDIT](#installation---to-edit)
+  - [Installation](#installation)
   - [Usage and Screenshots](#usage-and-screenshots)
   - [Links](#links)
   - [Contributions](#contributions)
@@ -21,45 +22,35 @@
   - [Author](#author)
 
 ## Technologies Used
-- TO EDIT
+- Node.js
+- MongoDB
+- Insomnia
+- Express.js
+- Mongoose packages
+- JSON
 
-## Installation - TO EDIT
-- Navigate to this [repository](https://github.com/mcramileux/mcramileux-tech-blog).
+## Installation
+- Navigate to this [repository](https://github.com/mcramileux/mcramileux-socnet-api).
 - Open your terminal on your local machine and clone the repository.
 - To install the package dependencies, run the following command in the terminal.
   ```md
   npm i 
   ```
-- Create an .env file to insure the root directory of the application. Once done, fill up the following information needed for security purposes:
-  ```md
-  DB_NAME='techBlog_db'
-  DB_PASSWORD='your MySQL password'
-  DB_USER='your MYSQL username''
-  ```
--  Run the command to open the mysql shell:
-  ```md
-  mysql -u root -p
-  ```
-- Enter your secured password as the terminal will prompt this question.
-- Then run this command to create and present the database:
-  ```md
-  source schema.sql;
-  ```
-- To create the tables and its relationships to the application, run this step:
-  ```md
-  npm run seed
-  ```
-- Open the server file to run this command from the application root directory
+- Create an .env file to ensure the root directory of the application.
+- Open the index file to run this command from the application root directory
   ```md 
-  npm run start
+  node index.js or npm start
   ```
+- Open Insomnia to test http://localhost:3001 with the following API endpoints (GET, PUT, DELETE, and POST).
 
 ## Usage and Screenshots
-- TO EDIT
+- Insomnia:
+ ![Insomnia](https://github.com/mcramileux/mcramileux-socnet-api/assets/122607160/0e3ba811-f0ef-46e5-a9a5-8014938eb597)  
+
 
 ## Links
-- Github Repository: - TO EDIT
-- Heroku Deployment: - TO EDIT
+- Github Repository: - https://github.com/mcramileux/mcramileux-socnet-api
+- Walkthough Video: - TO EDIT
 
 ## Contributions
 * Contributions to this project won't be accepted as this is the reflection of the author's work hence the following questions and answers. Furthermore, forking or creating a pull request is acceptable.

@@ -1,4 +1,4 @@
-// create a router
+// Create a router
 const router = require('express').Router();
 
 // Import user and thought routes

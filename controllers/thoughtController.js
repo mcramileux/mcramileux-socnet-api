@@ -92,6 +92,3 @@ module.exports = {
     }
   },
 };
-
-// Export ThoughtController
-// module.exports = thoughtController;

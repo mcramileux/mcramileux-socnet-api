@@ -77,7 +77,7 @@
 
 ## Links
 - Github Repository: - https://github.com/mcramileux/mcramileux-socnet-api
-- Walkthrough Video: - https://drive.google.com/file/d/1TvOWGUWmrqRtBO3PR2qlC0j4RcLEthsE/view
+- Walkthrough Video: - https://drive.google.com/file/d/18s1li9wsjam0A34C15gNxuON3REaWch7/view
 
 ## Contributions
 * Contributions to this project won't be accepted as this is the reflection of the author's work hence the following questions and answers. Furthermore, forking or creating a pull request is acceptable.
